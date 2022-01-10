@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654745861893",
+    "project_id": "lepic-69235",
+    "storage_bucket": "lepic-69235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654745861893:android:d8baa2566e054c2c72816c",
+        "android_client_info": {
+          "package_name": "com.example.lepic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654745861893-v5o6kpgth12hh6ni5mrov49f7m4j84sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lepic",
+            "certificate_hash": "31c7953c220cc51c0b185b0511f4b04936e6bba4"
+          }
+        },
+        {
+          "client_id": "654745861893-31f4t17jdoujrl8mqfo6rk5fju8t15g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbe4X4YAJmYdMRI6bNunoYFPJkZ82TYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654745861893-31f4t17jdoujrl8mqfo6rk5fju8t15g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
